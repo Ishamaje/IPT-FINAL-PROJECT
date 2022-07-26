@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>User</title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="maje.css"> 
+ <style>
+body{
+	background-image: url("me.gif");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+</style>
+<center>
+      <hr />
+      <h1>USER</h1>
+      <hr />
+
+  <div>
+      <b>
+        <a class="User" href="menu.html"><img src="menu.png"width=50" height="50"> </a> 
+      </b>
+    </div>
+      
+      <link rel="stylesheet" href="maje.css"><img class="img1" src="p3.jpg" />
+     
+    
+    <div class="header">TRISHA MARY JOY DL. MAJE</div>
+      
+      <br>
+      <br>
+    
+      <div class="header" >THERE'S NOTHING IN THIS WORLD FEELS RIGHT WITHOUT OUR SAVIOR</div>
+    
+
+      <div class="container">
+    <br>
+    <br>
+    <br>
+    
+    <div class="col1">Place of Birth:</div> 
+    <div class="col2">Pasig City</div>
+    <br>
+    <br>
+    <div class="col1">Civil Status:</div>
+    <div class="col2">Single</div>
+    <br>
+    <br>
+    <div class="col1">Religion:</div>
+    <div class="col2">Chatholic</div>
+    <br>
+    <br>
+    <div class="col1">Citizenship:</div>
+    <div class="col2">Filipino  </div>
+    <br>
+    <br>
+    <div class="col1">Height:</div>
+    <div class="col2">5.1 feet</div>
+    <br>
+    <br>
+    <br>
+    <br>
+    </center>
+    
+  </body>
+</html>
+

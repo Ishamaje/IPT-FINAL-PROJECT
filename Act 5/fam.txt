@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>User</title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="maje.css"> 
+ <style>
+body{
+	background-image: url("family.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+</style>
+<center>
+      <hr />
+      <h1>FAMILY</h1>
+      <hr />
+
+
+  <div>
+      <b>
+        <a class="FAMILY" href="menu.html"><img src="menu.png"width=50" height="50"> </a> 
+      </b>
+    </div>
+
+      <link rel="stylesheet" href="maje.css"><img class="img2" src="p1.gif" />
+      <link rel="stylesheet" href="maje.css"><img class="img3" src="p2.jpg" />
+      <link rel="stylesheet" href="maje.css"><img class="img4" src="p10.jpg" />
+      
+   
+      <div class="container">
+    <br>
+    <br>
+    <br>
+    
+    <div class="col3"> &#10084; My Father</div>
+    <div class="col4"> &#10084; My Mother</div>
+    <div class="col5"> &#10084; Younger Brother</div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="box-content2"> &#128161;He is My First Man</div>
+    <div class="box-content1"> &#128161; My Inspiration</div>
+    <div class="box-content3"> &#128161; My Stress Reliver</div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </center>
+    <input type="button" onclick="window.location.href='fam1.html';"class="button button1"  value="VISIT"/>
+    <input type="button" onclick="window.location.href='fam2.html';"class="button button2"  value="VISIT"/>
+    <input type="button" onclick="window.location.href='fam3.html';"class="button button3"  value="VISIT"/>
+
+  </body>
+</html>
+
